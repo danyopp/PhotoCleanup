@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoCleanup", "PhotoCleanup\PhotoCleanup.csproj", "{1151F072-FB1A-45FB-BC74-020218B3AE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1151F072-FB1A-45FB-BC74-020218B3AE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1151F072-FB1A-45FB-BC74-020218B3AE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1151F072-FB1A-45FB-BC74-020218B3AE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1151F072-FB1A-45FB-BC74-020218B3AE93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315251C8-1672-4786-B672-3AE40EE52E12}
+	EndGlobalSection
+EndGlobal
